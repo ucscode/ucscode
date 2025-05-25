@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋🏽 Hi, I'm Uchenna
 
-<!--
-**ucscode/ucscode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught full-stack developer since 2018 — building with **Symfony**, **Vue**, **Docker**, and **Linux**. I care about clean code, good architecture, and useful tools.
 
-Here are some ideas to get you started:
+- 🧱 Currently building course platforms, internal tools, and open-source projects
+- 🛠️ Contributor to developer tools and AI integrations
+- 🎬 Exploring tech video content with open-source tools on Linux
+- ✍🏽 Writing long-form technical blogs on software engineering
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Find me online**
+
+- 🌐 Website: [ucscode.com](https://ucscode.com)
+- 📝 Blog: [blog.ucscode.com](https://blog.ucscode.com)
+- 💼 LinkedIn: [linkedin.com/in/ucscode](https://linkedin.com/in/ucscode)
+- 📘 Facebook: [facebook.com/ucscode](https://facebook.com/ucscode)
+- 💻 GitHub: You're already here... ;)
