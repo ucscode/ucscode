@@ -1,18 +1,20 @@
 # 👋🏽 Hi, I'm Uchenna
 
-Self-taught full-stack developer since 2018 — building with **Symfony**, **Vue**, **Docker**, and **Linux**. I care about clean code, good architecture, and useful tools.
+I’ve been building cool stuff on the web since 2018. I’m a fan of clean code, fast tools, and systems that actually do what they’re supposed to do. 
 
-- 🧱 Currently building course platforms, internal tools, and open-source projects
-- 🛠️ Contributor to developer tools and AI integrations
-- 🎬 Exploring tech video content with open-source tools on Linux
-- ✍🏽 Writing long-form technical blogs on software engineering
+Right now, I’m deep into **web architecture** and **automation**, mostly figuring out how to make local AI do the heavy lifting so I can skip the "AI-speak" and get straight to the results.
+
+### 🛠️ What I use to build
+* **The Backend:** PHP (Symfony is my go-to), Node.js, Python etc (Backend is my superpower).
+* **The Frontend:** Vue.js, Bootstrap, Tailwind (I like my layouts structured and clean).
+* **The Engine Room:** I live in a Linux environment (Pop!_OS/Ubuntu) and love containerizing through Docker.
+* **The Magic:** I’m a big fan of **n8n** for automation and running local models like **DeepSeek** and **Ollama** to keep things fast and private.
+
+### 🎬 My Vibe
+I’m a big believer in keeping things simple and clear. I’d rather spend my time building a useful API wrapper or a smooth automation than over-complicating a project description. For me, it's all about making sure the tech actually works for the people using it.
 
 ---
 
-📫 **Find me online**
-
-- 🌐 Website: [ucscode.com](https://ucscode.com)
-- 📝 Blog: [blog.ucscode.com](https://blog.ucscode.com)
-- 💼 LinkedIn: [linkedin.com/in/ucscode](https://linkedin.com/in/ucscode)
-- 📘 Facebook: [facebook.com/ucscode](https://facebook.com/ucscode)
-- 💻 GitHub: You're already here... ;)
+### 📫 You Can Find Me On:
+* 💼 [LinkedIn](https://linkedin.com/in/ucscode) — *Say hi if you're into automation or clean builds.*
+* 📘 [Facebook](https://facebook.com/ajah.uchenna.9) — *Catch me here too.*
